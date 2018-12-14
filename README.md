@@ -1,4 +1,4 @@
-# PreditingStockMovement
+# Prediting Stock Movement
 
 Check out the paper for details.
 
